@@ -24,8 +24,11 @@
  npm install firebase 
 ```
 
-* Pour installer Node-RED, vous pouvez utiliser la commande npm fournie avec node.js ::
-* sudo npm install -g --unsafe-perm node-red
+* Pour installer Node-RED, vous pouvez utiliser la commande npm fournie avec node.js :
+ ```bash
+ sudo npm install -g --unsafe-perm node-red
+```
+
 
 
 ### Executing program
