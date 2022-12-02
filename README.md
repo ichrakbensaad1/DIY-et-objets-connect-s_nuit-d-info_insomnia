@@ -14,7 +14,7 @@ Développer un dashboard de visualisation de la température et l'humidité et l
 *Application mobile:
 <img src="317145355_1453994595126027_5315369434754550017_n.jpg" width="128"/>
 <img src="317347718_2677381055731274_5277755142609519641_n.png"width="128"/>
-<img src="317117739_682997306718387_7312697147177512656_n.jpg" width="128"/>
+<img src="app.jpg" width="128"/>
 
 
 
