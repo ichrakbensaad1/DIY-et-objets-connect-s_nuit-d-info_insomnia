@@ -4,19 +4,26 @@
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+
+<img src="relative/path/in/repository/to/image.svg" width="128"/>
+
 
 ## Getting Started
 
-### Dependencies
+### matrielles
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Raspberry pi3,DHT11
+## logiciels 
+* VNC Viewer
+* Node red 
+* MIT APP Inventor
+* Firebase
+### Installing with npm
+*  Pour installer Firebase , vous pouvez utiliser la commande npm :
+* npm install firebase 
+* Pour installer Node-RED, vous pouvez utiliser la commande npm fournie avec node.js ::
+* sudo npm install -g --unsafe-perm node-red
 
-### Installing
-
-*
-* 
 
 ### Executing program
 
