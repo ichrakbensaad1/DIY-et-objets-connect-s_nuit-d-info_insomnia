@@ -8,7 +8,7 @@ Dans ce contexte, le thème de la nuit d'info de cette année est "sexinfo", ce 
 Développer un dashboard de visualisation de la température et l'humidité et la réalisation d'une application mobile.
 <img src="317117739_682997306718387_7312697147177512656_n.jpg" width="128"/>
 <img src="317117739_682997306718387_7312697147177512656_n.jpg" width="128"/>
-<img src="317117739_682997306718387_7312697147177512656_n.jpg" width="128"/>
+<img src="317625157_3208750456052786_8295408481447596904_n.png" width="128"/>
 <img src="317117739_682997306718387_7312697147177512656_n.jpg" width="128"/>
 
 
