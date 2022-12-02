@@ -5,7 +5,7 @@
 ## Description
 
 
-<img src="relative/path/in/repository/to/image.svg" width="128"/>
+<img src="317117739_682997306718387_7312697147177512656_n.jpg" width="128"/>
 
 
 ## Getting Started
@@ -20,7 +20,10 @@
 * Firebase
 ### Installing with npm
 *  Pour installer Firebase , vous pouvez utiliser la commande npm :
-* npm install firebase 
+```bash
+ npm install firebase 
+```
+
 * Pour installer Node-RED, vous pouvez utiliser la commande npm fournie avec node.js ::
 * sudo npm install -g --unsafe-perm node-red
 
