@@ -10,8 +10,8 @@ Développer un dashboard de visualisation de la température et l'humidité et l
 *Dashboard:
 
 
-<img src="317625157_3208750456052786_8295408481447596904_n.png" width="128"/>
-<img src="317783004_556200823005207_9105614281716013518_n.png" width="128"/>
+<img src="317625157_3208750456052786_8295408481447596904_n.png"/>
+<img src="317783004_556200823005207_9105614281716013518_n.png" />
 
 
 
@@ -20,7 +20,7 @@ Développer un dashboard de visualisation de la température et l'humidité et l
 
 
 
-<img src="317347718_2677381055731274_5277755142609519641_n.png" width="128"/>
+<img src="317347718_2677381055731274_5277755142609519641_n.png" />
 
 <img src="app.jpg" width="128"/>
 
